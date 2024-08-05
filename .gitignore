@@ -1,3 +1,4 @@
 docs/
 .ipynb_checkpoints/
 .env
+data/
